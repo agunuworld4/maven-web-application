@@ -30,7 +30,7 @@ node {
    }
 
   stage ("Deploy on Tomcat")   {
-      deploy adapters: [tomcat9(credentialsId: 'tomcat-deployment-connection', path: '', url: 'http://35.236.11.250:8090/')], contextPath: 'maven-web-application', war: 'target/maven-web-application.war'
+      deploy adapters: [tomcat9(credentialsId: 'tomcat-deployment-connection', path: '', url: 'http://35.236.11.250:8090/')], contextPath: 'maven-web-application', war: '**/*.war'
      }
 
 }
