@@ -8,6 +8,9 @@ node {
 stage ('PackageApp'){
   sh "${mvnHome}/bin/mvn clean install package"
 }
-
+ 
+  stage('AlertFromJenkins'){
+   emailext body: 'Checkout and build packageApp was successful', recipientProviders: [developers()], subject: 'myPipeline Jenkins Job', to: 'agunu2025@gmail.com' 
+  }
 
 }
