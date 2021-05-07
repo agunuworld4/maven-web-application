@@ -9,20 +9,20 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center"> We have a demo on DevOps with AWS on 7th March at 9 AM IST. Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys...</h1>
+<h1 align="center">EGHOSA AGUNU TECHNOLOGIES HOME PAGE</h1>
+<h1 align="center">GOD ALMIGHTY I HAVE CODING INTERVIEW TOMMOROW HELP ME.AMEN</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226.
+		EGHOSA Technologies, 
+		3523 Shadow Bluff CT,Houston,
+		Texas,
+		+8324387775.
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Eghosa Technologies</a>
 	</span>
 </div>
 <hr>
