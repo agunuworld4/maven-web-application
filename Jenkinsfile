@@ -10,7 +10,7 @@ stage ('PackageApp'){
 }
  
   stage('AlertFromJenkins'){
-    mail bcc: '', body: 'Code Checkout and packageApp was succefull', cc: '', from: '', replyTo: '', subject: 'Jenkins Pipeline Trigger', to: 'agunu2025@gmail.com'
+    mail bcc: '', body: 'Code Checkout and packageApp was succefull', cc: '', from: '', replyTo: '', subject: 'Jenkins Pipeline Trigger', to: 'myckaexam@gmail.com'
   }
 
 }
